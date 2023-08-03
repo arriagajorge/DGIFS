@@ -1,4 +1,4 @@
-# DGFIs
+# DGIFS
 Directed-Graph Iterated Function Systems with JULIA
 
 Considering the following directed graph
